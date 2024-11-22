@@ -1,3 +1,5 @@
+import React from 'react';
+
 const Resume = () => (
     <div className="container py-5">
         <h2>Resume</h2>
